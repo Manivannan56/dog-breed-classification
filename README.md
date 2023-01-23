@@ -1,1 +1,1 @@
-# dog-breed-classification
+# Dog Breed Classification
